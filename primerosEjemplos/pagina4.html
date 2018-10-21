@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <form action="pagina4.php">
+            <input type="text" name="esteEsta"/>
+            <input type="text" name="esteNoEsta"/>
+            <input type="submit" value="Submit"/>
+        </form>
+        
+        <br><hr>
+        <form action="pagina4.php">
+            <input type="text" name="esteEsta"/>
+            <input type="submit" value="Submit"/>
+        </form>
+        <br><hr>
+        <form action="pagina4.1.php">
+            <input type="text" name="nombre"/>
+            fumador<input type="checkbox" name="fumador"/>
+            toalla<input type="checkbox" name="extra[]" value="toalla"/>
+            minibar<input type="checkbox" name="extra[]" value="minibar"/>
+            desayuno<input type="checkbox" name="extra[]" value="desayuno"/>
+            <input type="submit" value="Submit"/>
+        </form>
+        
+        <form action="pagina4.1.php">
+            <input type="text" name="nombre"/>
+            fumador<input type="checkbox" name="fumador"/>
+            toalla<input type="checkbox" name="extra" value="toalla"/>
+            minibar<input type="checkbox" name="extra" value="minibar"/>
+            desayuno<input type="checkbox" name="extra" value="desayuno"/>
+            <input type="submit" value="Submit"/>
+        </form>
+        
+        <hr>
+        <form method="post" action="pagina4.2.php?nombre=juan">
+            <input type="text" name="nombre" value="pepe"/>
+            <input type="submit" value="Submit"/>
+        </form>
+        
+    </body>
+</html>

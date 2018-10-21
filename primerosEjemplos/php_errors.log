@@ -1,0 +1,12 @@
+[21-Sep-2018 09:01:57 UTC] PHP Parse error:  syntax error, unexpected 'bossu' (T_STRING) in /home/ubuntu/workspace/Inutilidades/classes/Alumno.php on line 3
+[11-Oct-2018 07:26:29 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'KEEP' in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/pagina1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/pagina1.php on line 6
+[11-Oct-2018 07:27:22 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'KEEP' in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/pagina1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/pagina1.php on line 6
+[11-Oct-2018 07:53:23 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/read.php on line 5
+[11-Oct-2018 07:53:27 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/read.php on line 5
+[11-Oct-2018 07:54:47 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/ubuntu/workspace/primerosEjemplos/archivosexternos/read.php on line 5
